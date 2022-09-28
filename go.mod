@@ -1,3 +1,3 @@
-module github.com/Netflix/go-env
+module github.com/ipfs-search/go-env
 
 go 1.13
